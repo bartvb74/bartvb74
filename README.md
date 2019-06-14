@@ -4,4 +4,4 @@
 
 ### test 3
 
-[help](https://www.google.com)
+Voor help klik [hier](https://www.google.com)
