@@ -1,7 +1,15 @@
-# test 1
+# [NAS](http://192.168.0.20:5000)
 
-## test 2
+# [WD Backup](http://192.168.0.22)
 
-### test 3
+# [Camerabewaking](http://192.168.0.20:5000/webman/3rdparty/SurveillanceStation/)
 
-# Voor help klik [NAS](http://192.168.0.20:5000)
+# [Yamaha RX-675 versterker](http://192.168.0.25)
+
+# [Unifi SDN via Chrome](http://192.168.0.20:8443)
+
+# [Zonnepanelen](http://192.168.0.60)
+
+# [Sophos Antivirus](http://home.sophos.com)
+
+# [Comodo One](https://one.comodo.com/app/login)
