@@ -6,7 +6,7 @@
 
 # [Yamaha RX-675 versterker](http://192.168.0.25)
 
-# [Unifi SDN via Chrome](http://192.168.0.20:8443)
+# [Unifi SDN via Chrome](https://192.168.0.20:8443/manage/account/login?redirect=%2Fmanage)
 
 # [Zonnepanelen](http://192.168.0.60)
 
