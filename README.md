@@ -4,6 +4,8 @@
 
 # [Camera Surveillance](http://192.168.0.20:5000/webman/3rdparty/SurveillanceStation/)
 
+# [Photo Station] (http://192.168.0.20/photo/)
+
 # [Yamaha RX-675 Receiver](http://192.168.0.25)
 
 # [Unifi AP via Chrome](https://192.168.0.20:8443/manage/account/login?redirect=%2Fmanage)
