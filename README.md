@@ -6,7 +6,7 @@
 
 # [Photo Station](http://192.168.0.20/photo/#!Albums)
 
-# [Video Station] (http://192.168.0.20:5000/?launchApp=SYNO.SDS.VideoStation.AppInstance&SynoToken=qJZIgKvhE5Coc#!Home)
+# [Video Station](http://192.168.0.20:5000/?launchApp=SYNO.SDS.VideoStation.AppInstance&SynoToken=qJZIgKvhE5Coc#!Home)
 
 # [Yamaha RX-675 Receiver](http://192.168.0.25)
 
