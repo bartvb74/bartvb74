@@ -15,5 +15,3 @@
 # [Solar System](http://192.168.0.60)
 
 # [Sophos Home](https://my.sophos.com/en-us/login)
-
-# [Comodo One](https://one.comodo.com/app/login)
